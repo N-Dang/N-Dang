@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello, I'm Nhan Dang
+## Aspiring Software Developer | Computer Science Student
 
-<!--
-**N-Dang/N-Dang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying computer science and learning the basics of programming, web development, and version control. I enjoy building simple projects that help me improve my coding skills, problem-solving ability, and understanding of technology.
 
-Here are some ideas to get you started:
+### Current Projects
+- Creating simple Python programs using input, loops, and error handling
+- Building basic web pages with HTML and CSS
+- Learning how to organize projects using GitHub repositories
+- Practicing documentation with README files
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm Currently Learning
+- Python programming
+- HTML and CSS
+- Git and GitHub
+- Web development basics
+- Project organization and documentation
+
+### Technical Skills
+- Languages: Python, HTML, CSS
+- Tools: GitHub, VS Code, Online Python IDE
+- Skills: Problem-solving, debugging, teamwork, communication, documentation
+
+### Featured Projects
+- Python Practice Programs
+- Personal Website
+- Course Projects
+
+### How to Reach Me
+- LinkedIn: http://www.linkedin.com/in/nhan-d-171166230
+- Email: nhandang629@gmail.com
+
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Dang)
